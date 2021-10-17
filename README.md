@@ -25,7 +25,6 @@ My passion is creating, and I find happiness in being a better me today than the
 
 ---
   
-  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCiMSRPirQ1wGCbn-d9T5iMA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
