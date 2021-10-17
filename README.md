@@ -21,7 +21,7 @@ My passion is creating, and I find happiness in being a better me today than the
   <img alt="IG-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="IG-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="IG-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="IG-Vue" height="50" width="40" color="#41B883" src="https://github.com/IchimGabriel/ichimgabriel/blob/red/555px-Vue.svg" />
+  <img alt="IG-Vue" height="50" width="50" color="#41B883" src="https://github.com/IchimGabriel/ichimgabriel/blob/red/555px-Vue.svg" />
 
 ---
   
