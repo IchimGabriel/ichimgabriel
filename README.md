@@ -8,7 +8,7 @@ My passion is creating, and I find happiness in being a better me today than the
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimGabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="IG-Dotnet" width="30" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="IG-Dotnet" width="30" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> 
   <img align="center" alt="IG-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="IG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="IG-Docker" width="30" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
